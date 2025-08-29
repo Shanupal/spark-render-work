@@ -20,8 +20,7 @@ export const DashboardHeader = () => {
             />
           </div>
 
-          
-          <Button variant="ghost" size="icon">
+        <Button variant="ghost" size="icon">
             <Bell className="w-5 h-5" />
           </Button>
           
@@ -40,3 +39,4 @@ export const DashboardHeader = () => {
   );
 
 };
+
